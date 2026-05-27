@@ -1,0 +1,3 @@
+A converted lead is worth roughly $1,200 in annual software revenue if the lead turns into a consultation and a credit purchase. The economics depend on a 5% consultation conversion and a 20% credit-purchase conversion from the audit flow. With a 30-day funnel, the tool needs to turn roughly 1 in 25 audit completions into a live consultation and 1 in 5 consultations into a paid credit deal to remain healthy.
+
+The main cost drivers are time spent on support, email delivery, and audit orchestration, so the biggest lever is conversion quality rather than pure traffic volume. If the tool reaches 100 completed audits per month, a 3% consultation conversion and 25% purchase conversion would create a healthy lead-gen loop for Credex.
